@@ -1,0 +1,8 @@
+{
+    "graphs": {
+      "numpy_gen": "./main.py:graph"
+    },
+    "dependencies": [
+      "."
+    ]
+  }

@@ -1,0 +1,5 @@
+langgraph
+ollama
+numpy
+langchain-core
+python-dotenv
