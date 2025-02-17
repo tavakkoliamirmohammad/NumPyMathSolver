@@ -75,8 +75,6 @@ pip3 install -r requirements.txt
 To run the pipeline, import the compiled graph and execute it with an initial state. For example:
 
 ```python
-from your_module import graph, GraphState
-
 # Define the initial state with the user question
 initial_state: GraphState = {
     "question": "Calculate the sum of an array of numbers.",
