@@ -1,4 +1,4 @@
-# Math Code Generation Pipeline
+# NumPyMathSolver
 
 This repository implements a dynamic pipeline that uses AI-powered prompts and a state graph to generate, verify, refine, and execute Python code for solving math-related problems using NumPy. The pipeline leverages the [Ollama](https://ollama.com) client for interacting with language models, as well as components from LangGraph and LangChain.
 
